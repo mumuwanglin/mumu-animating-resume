@@ -116,34 +116,28 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `王林
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+iOS开发工程师，现在在就职于南京华苏科技有限公司。
 
 技能
 ----
 
+* iOS开发
 * 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* Java后台开发
 
-工作经历
-----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [Gitee](http://git.oschina.net/mumuwang)
+* [我的博客](http://www.mumu.890m.com/blog/)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/mumuwanglin/mumu-animating-resume)，打造你自己的简历！
 
 `
       }
